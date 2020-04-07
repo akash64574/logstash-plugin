@@ -220,7 +220,7 @@
   </pluginRepositories>
 
   <build>
-    <defaultGoal>clean verify</defaultGoal>
+    <defaultGoal>install</defaultGoal>
     <plugins>
       <plugin>
         <groupId>org.jenkins-ci.tools</groupId>
